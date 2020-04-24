@@ -1,0 +1,14 @@
+usr/bin/cancel
+usr/bin/cupstestppd
+usr/bin/lp
+usr/bin/lpoptions
+usr/bin/lpstat
+usr/sbin/lpadmin
+usr/sbin/lpinfo
+usr/sbin/lpmove
+usr/sbin/cupsaccept
+usr/sbin/cupsreject
+usr/sbin/cupsdisable
+usr/sbin/cupsenable
+usr/sbin/cupsctl
+debian/tests/utils/test-drivers usr/share/cups/
